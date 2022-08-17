@@ -6,7 +6,7 @@
 - Cloud Computing
 - AI
 
-🌱 I’m currently working in a Legaltech
+🌱 I’m currently working in a SusTech personal project
 
 💞️ I’m looking to collaborate on opensource projects oriented to improve web development performance: Python APIs, Web3 Frameworks
 
