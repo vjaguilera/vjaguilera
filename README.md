@@ -6,9 +6,33 @@
 - Cloud Computing
 - AI
 
-🌱 I’m currently working in a SusTech personal project
+🌱 I’m currently working in a CarTech and Liveshopping personal project
 
 💞️ I’m looking to collaborate on opensource projects oriented to improve web development performance: Python APIs, Web3 Frameworks
+
+🔨 Tools and languages:
+- AI
+  - scikitlearn
+  - PyTorch
+  - Keras
+- Data Engineering
+  - PySpark
+  - pandas
+  - Apache Airflow
+- Web
+  - Angular Ssr
+  - React Sr
+- Mobile
+  - React Native Ssr
+- Backend
+  - Flask Ssr
+  - Django Ssr
+  - Fast API Ssr
+  - Node Ssr
+  - Apollo Server Ssr
+- Cloud
+  - AWS (not certificated)
+  - GCP (not certificated)
 
 📫 How to reach me:
 - vjaguilera@uc.cl
