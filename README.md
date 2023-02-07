@@ -34,6 +34,8 @@
   - AWS (not certificated)
   - GCP (not certificated)
 
+😴 If you ask me to optimize an algorithm or the complexity of a recursion, let me study for 1 day.
+
 📫 How to reach me:
 - vjaguilera@uc.cl
 - https://www.linkedin.com/in/vicente-aguilera-yevenes-cl/
